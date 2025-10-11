@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "KYLE.BOTV5",
+		"password": "TSHOLOFELO",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [61578831083228],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
